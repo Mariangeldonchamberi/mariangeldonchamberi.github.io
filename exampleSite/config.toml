@@ -1,5 +1,5 @@
 baseURL = 'https://cohub-hugo.netlify.app'
-languageCode = 'en-us'
+languageCode = 'es'
 paginate = 6
 theme= "coHub"
 title = 'coHub'
@@ -7,7 +7,7 @@ title = 'coHub'
 [Menu]
   # Main Menu
   [[menu.Main]]
-  name = "Exibhition"
+  name = "Exibhition 2"
   url= "#gallery"
   weight = 1
   [[menu.Main]]
